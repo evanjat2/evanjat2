@@ -12,7 +12,7 @@
 <a href="https://twitter.com/evan_jat2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evan_jat2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evanananda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evanananda" height="30" width="40" /></a>
 <a href="https://fb.com/evan.a.jati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evan.a.jati" height="30" width="40" /></a>
-<a href="https://instagram.com/@evan_jat2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@evan_jat2" height="30" width="40" /></a>
+<a href="https://instagram.com/evan_jat2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@evan_jat2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
