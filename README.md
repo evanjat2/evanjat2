@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Ananda Jati</h1>
 <h3 align="center">Undergraduate Student at DTETI FT UGM</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **ann.jati2@gmail.com**
 
